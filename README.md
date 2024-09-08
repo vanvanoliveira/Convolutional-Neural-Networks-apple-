@@ -29,3 +29,6 @@ Scikit-learn: For generating confusion matrices and classification reports.
 
 Conclusion:
 This project demonstrates the effective application of CNNs in image classification tasks, comparing a custom-built model with a pre-trained network to highlight their respective strengths and weaknesses. The use of data augmentation and transfer learning showcases advanced techniques in building robust and efficient machine learning models.
+
+
+**** Unfortunately it was not possible to upload the file with the images of the apples because it is a very heavy file.
